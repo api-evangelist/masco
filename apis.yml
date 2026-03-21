@@ -1,0 +1,7 @@
+aid: masco
+url: https://raw.githubusercontent.com/api-evangelist/masco/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis: []
+common:
+  - type: Website
+    url: https://www.masco.com
