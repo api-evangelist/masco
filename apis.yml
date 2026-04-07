@@ -1,7 +1,14 @@
 aid: masco
-url: https://raw.githubusercontent.com/api-evangelist/masco/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/masco/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.masco.com
+description: >-
+  You’re driven to reach your full potential. Us too! We are driven by a collective
+  purpose: to deliver better living possibilities. At Masco, you will find an encouraging
+  environment where you can thrive both professionally and personally, and your work
+  will improve the way people experience daily living in their homes and communities.
+  Join us as we seek solutions, innovate, succeed and make our world a better place.
