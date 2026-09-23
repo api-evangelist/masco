@@ -1,7 +1,9 @@
 ---
 title: Masco Corporation to Host Investor Day on May 13, 2026
 url: https://www.barchart.com/story/news/1317054/masco-corporation-to-host-investor-day-on-may-13-2026
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Masco" press release artificial intelligence'
 position: 3
 source: serpapi-google

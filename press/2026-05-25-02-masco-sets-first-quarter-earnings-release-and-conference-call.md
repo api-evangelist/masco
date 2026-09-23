@@ -1,7 +1,9 @@
 ---
 title: Masco sets first-quarter earnings release and conference call
 url: https://www.sahmcapital.com/news/content/masco-sets-first-quarter-earnings-release-and-conference-call-2026-03-23
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Masco" press release artificial intelligence'
 position: 2
 source: serpapi-google
