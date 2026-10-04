@@ -1,5 +1,5 @@
 aid: masco
-name: Masco Corporation
+name: Masco
 description: >-
   Masco Corporation is a global leader in the design, manufacture, and distribution
   of branded home improvement and building products, including faucets, plumbing
@@ -63,3 +63,4 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-legal-name: Masco Corporation
