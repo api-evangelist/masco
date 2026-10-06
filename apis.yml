@@ -38,10 +38,12 @@ tags:
   - Fortune 500
 url: https://raw.githubusercontent.com/api-evangelist/masco/refs/heads/main/apis.yml
 created: '2026-03-21'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://masco.com/feed/
+    type: BlogRSS
   - type: DomainSecurity
     url: security/masco-domain-security.yml
   - type: Website
